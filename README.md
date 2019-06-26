@@ -6,7 +6,7 @@ In simple terms, a raycaster is a 2D renderer that fakes a first person 3D persp
 
 This approach isn't really used much anymore, because modern computers have much more processing power and dedicated hardware for rendering true three dimensional space in real time. However, it IS still really cool.
 
-[Play the Demo](demo.html)
+[Play the Demo](./demo.html)
 
 ## Making a ray-caster
 So, I wanted to learn about raycasters, but I didn't really know how, not to mention my lacking (if improving) math skills. So, I found a tutorial on the subject. You can find that here:
