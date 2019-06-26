@@ -1,4 +1,4 @@
-# js-raycast
+# raycast-demo
 
 ## What is a raycaster?
 
@@ -6,10 +6,12 @@ In simple terms, a raycaster is a 2D renderer that fakes a first person 3D persp
 
 This approach isn't really used much anymore, because modern computers have much more processing power and dedicated hardware for rendering true three dimensional space in real time. However, it IS still really cool.
 
+(../demo.html "Play the Demo")
+
 ## Making a ray-caster
 So, I wanted to learn about raycasters, but I didn't really know how, not to mention my lacking (if improving) math skills. So, I found a tutorial on the subject. You can find that here:
 
-https://lodev.org/cgtutor/raycasting.html
+(https://lodev.org/cgtutor/raycasting.html)
 
 It's written in C++ and uses a simple graphics library that you can find on that site as well, but I wanted to do more with it, so I adapted it to Javascript and Canvas. I won't retread the ground covered there. Instead, I'll talk about the modifications I made and the ways that I extended the program beyond the scope of the tutorial. Most of these changes can be easily extended or improved in various ways. My main goal was to figure out the basic foundations for drawing a variety of wall shapes.
 
