@@ -27,9 +27,9 @@ function loadImages() {
 		{varName: mapPillarPic, fileName: 'map_pillar.png'},
 		{varName: mapForceFieldPic, fileName: 'map_force_field.png'},
 		{varName: deathOrbPic, fileName: 'death_orb.png'},
-//		{varName: skyBox1, fileName: 'skyBox1.png'},
-//		{varName: skyBox2, fileName: 'skyBox2.png'},
-//		{varName: skyBox3, fileName: 'skyBox3.png'}
+		{varName: skyBox1, fileName: 'skyBox1.png'},
+		{varName: skyBox2, fileName: 'skyBox2.png'},
+		{varName: skyBox3, fileName: 'skyBox3.png'}
 	]
 	
 	imagesToLoad = imageList.length;
