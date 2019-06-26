@@ -42,7 +42,7 @@ function loadImages() {
 }
 
 function beginLoadingImage(imgVar, fileName) {
-	imgVar.src = 'images/'+fileName;
+	imgVar.src = './images/'+fileName;
 	imgVar.onload = function() {countImagesOrStartGame()};
 }	
 
