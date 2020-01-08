@@ -1,4 +1,4 @@
-# raycast-demo
+# Raycast Demo
 
 ## What is a raycaster?
 
